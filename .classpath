@@ -18,5 +18,14 @@
 	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/selenium-java-3.13.0/libs/okio-1.14.1.jar"/>
 	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/selenium-java-3.13.0/client-combined-3.13.0-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/selenium-java-3.13.0/client-combined-3.13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/rest-assured-3.1.0-dist/rest-assured-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/rest-assured-3.1.0-dist/docs/json-path-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/rest-assured-3.1.0-dist/docs/json-path-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/rest-assured-3.1.0-dist/docs/rest-assured-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/rest-assured-3.1.0-dist/docs/rest-assured-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/rest-assured-3.1.0-dist/docs/rest-assured-common-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/rest-assured-3.1.0-dist/docs/rest-assured-common-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/rest-assured-3.1.0-dist/docs/xml-path-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/aleksandralukic/Desktop/rest-assured-3.1.0-dist/docs/xml-path-3.1.0-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
