@@ -5,12 +5,12 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
 public class AdidasAutomationTest {
+	@Test 
+	public void SendCommentTest() {
 
-	public static void main(String[] args) {
-	
-			
 				System.setProperty("webdriver.chrome.driver","/Users/aleksandralukic/chromedriver");
 				WebDriver driver = new ChromeDriver();
 				String commentTextActual = "Sending a comment with a correct email in testing purposes";
