@@ -1,3 +1,8 @@
+#### Short intro
+
+This repository contains two tests. Both tests are written in Java, using Selenium and Restfull API. First test is testing an interface and the second test is testing an API. 
+
+
 #### Requirements:
 
 - Java 9.0.4 or higher
